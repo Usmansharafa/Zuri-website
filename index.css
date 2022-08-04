@@ -206,7 +206,7 @@ footer li a {
   font-weight: bold;
 }
 
-@media screen and (max-width: 950px) {
+@media screen and (max-width: 991px) {
   .intro-container {
     height: 68vh;
   }
