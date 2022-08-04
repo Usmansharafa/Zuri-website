@@ -108,11 +108,11 @@ main {
   text-align: center;
   height: 70vh;
   background-image: url("../../images/maleface.svg"),
-    url("../../images/wire1.svg"), url("../../images/line.svg");
+    url("../../images/wire1.svg");
   background-repeat: no-repeat;
-  background-position-y: 70%, 88%, 43%;
-  background-position-x: left, 65%, 94.5%;
-  background-size: 10%, 15%, 30%;
+  background-position-y: 70%, 88%;
+  background-position-x: left, 65%;
+  background-size: 10%, 15%;
 }
 
 .middle-content h4 {
