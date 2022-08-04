@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Lexend+Deca:wght@400;700&display=swap");
+@import url('http://fonts.cdnfonts.com/css/averta-blackitalic');
 
 *,
 ::before,
@@ -33,7 +33,7 @@
 }
 
 body {
-  font-family: "Lexend Deca", sans-serif;
+  font-family: "Averta-Black", sans-serif;
 }
 
 .intro-container {
