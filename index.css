@@ -15,7 +15,9 @@
 }
 
 body {
-  font-family: "Averta-Black", sans-serif;
+  font-family: "Averta-Light";
+  font-style: normal;
+  font-weight: 400;
 }
 
 .intro-container {
@@ -242,7 +244,7 @@ footer li a {
   .product {
     width: 100%;
   }
-  footer{
+  footer {
     width: 100%;
     padding: 2.5rem 1rem;
   }
@@ -259,54 +261,54 @@ footer li a {
   .follow-us-container {
     width: 100%;
   }
-  .copyright{
+  .copyright {
     width: 100%;
   }
 }
 
 @media screen and (max-width: 380px) {
-  .intro-container{
+  .intro-container {
     height: 85vh;
   }
-  .intro-button-container{
+  .intro-button-container {
     width: 60%;
   }
 }
 
-@media screen and (width:540px) {
-  .intro-container{
+@media screen and (width: 540px) {
+  .intro-container {
     height: 80vh;
   }
 }
 
-@media screen and (width:280px) {
-  .intro-container{
+@media screen and (width: 280px) {
+  .intro-container {
     height: 100vh;
   }
-  .intro-button-container{
+  .intro-button-container {
     width: 80%;
   }
 }
 
-@media screen and (width:1024px) {
-  .products-container{
+@media screen and (width: 1024px) {
+  .products-container {
     background-position-y: 30%;
   }
   .footer-logo-container,
   .links-container,
-  .contact-container{
+  .contact-container {
     width: 28%;
   }
-  .follow-us-container{
+  .follow-us-container {
     width: 14%;
   }
-  .social-icon{
-    margin-right: .2rem;
+  .social-icon {
+    margin-right: 0.2rem;
   }
 }
 
-@media screen and (width:1280px) {
-  .products-container{
+@media screen and (width: 1280px) {
+  .products-container {
     background-position-y: 40%;
   }
 }
