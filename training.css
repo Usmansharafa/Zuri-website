@@ -1123,7 +1123,7 @@ footer li a {
 
 } */
 
-@media screen and (max-width:1205px) {
+@media screen and (min-width:1050px) {
  .first-section-flex-container {
     flex-direction: column;
   }
@@ -1148,6 +1148,10 @@ footer li a {
     background-position-y: 88%;
     background-position-x: 70%;
     background-size: 15%;
+  }
+
+  .track-flex-container{
+    flex-direction: row;
   }
 
   .track {
