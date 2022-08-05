@@ -115,7 +115,7 @@ footer {
   text-align: center;
   height: 74vh;
   background-image: url("./images/maleface.svg"),
-    url("../../images/wire1.svg");
+    url("./images/wire1.svg");
   background-repeat: no-repeat;
   background-position-y: 90%, 100%;
   background-position-x: left, 70%;
