@@ -114,7 +114,7 @@ footer {
   width: 40%;
   text-align: center;
   height: 74vh;
-  background-image: url("../../images/maleface.svg"),
+  background-image: url("./images/maleface.svg"),
     url("../../images/wire1.svg");
   background-repeat: no-repeat;
   background-position-y: 90%, 100%;
@@ -192,7 +192,7 @@ footer {
   padding-top: 6rem;
   padding-bottom: 3rem;
   background-color: #fffdf5;
-  background-image: url("../../images/section3wire.svg");
+  background-image: url("./images/section3wire.svg");
   background-repeat: no-repeat;
   background-size: 6%;
   background-position-y: 10%;
@@ -269,7 +269,7 @@ footer {
 .remote-container {
   background-color: var(--red-bg);
   color: #fff;
-  background-image: url("../../images/fully-remote-curve.png");
+  background-image: url("./images/fully-remote-curve.png");
   background-repeat: no-repeat;
   background-size: 31%;
   background-position: right top;
@@ -280,35 +280,35 @@ footer {
 }
 
 .hands-on-experience-container {
-  background-image: url("../../images/hands-on-experience-curve.svg");
+  background-image: url("./images/hands-on-experience-curve.svg");
   background-repeat: no-repeat;
   background-size: 31%;
   background-position: right top;
 }
 
 .collab-learning-container {
-  background-image: url("../../images/collab-learning-curve.svg");
+  background-image: url("./images/collab-learning-curve.svg");
   background-repeat: no-repeat;
   background-size: 31%;
   background-position: right top;
 }
 
 .real-life-project-container {
-  background-image: url("../../images/real-life-project-curve.svg");
+  background-image: url("./images/real-life-project-curve.svg");
   background-repeat: no-repeat;
   background-size: 31%;
   background-position: right top;
 }
 
 .beginner-friendly-container {
-  background-image: url("../../images/beginner-friendly-curve.svg");
+  background-image: url("./images/beginner-friendly-curve.svg");
   background-repeat: no-repeat;
   background-size: 31%;
   background-position: right top;
 }
 
 .in-program-mentorship-container {
-  background-image: url("../../images/in-program-mentorship-curve.svg");
+  background-image: url("./images/in-program-mentorship-curve.svg");
   background-repeat: no-repeat;
   background-size: 31%;
   background-position: right top;
@@ -321,8 +321,8 @@ footer {
   display: flex;
   align-items: center;
   color: #fff;
-  background-image: url("../../images/wire3.svg"),
-    url("../../images/circles.png");
+  background-image: url("./images/wire3.svg"),
+    url("./images/circles.png");
   background-repeat: no-repeat;
   background-size: 6%, 10%;
   background-position-y: 10%, 96%;
@@ -485,7 +485,7 @@ footer {
 .faq-container {
   padding-top: 6.5rem;
   padding-bottom: 2.9rem;
-  background-image: url("../../images/section7wire.svg");
+  background-image: url("./images/section7wire.svg");
   background-repeat: no-repeat;
   background-size: 10%;
   background-position-y: 10%;
@@ -589,8 +589,8 @@ footer {
 
 .structure-container {
   padding: 10rem 0;
-  background-image: url("../../images/section7wire.svg"),
-    url("../../images/Star1.svg"), url("../../images/triangle.svg");
+  background-image: url("./images/section7wire.svg"),
+    url("./images/Star1.svg"), url("./images/triangle.svg");
   background-repeat: no-repeat;
   background-size: 10%;
   background-position-x: 15%, 85%, 0%;
@@ -615,7 +615,7 @@ h3.section-head {
   padding: 0 6.5rem;
   gap: 1.5rem;
   margin-top: 4.9rem;
-  background-image: url("../../images/circle.png");
+  background-image: url("./images/circle.png");
   background-repeat: no-repeat;
   background-size: 11%;
   background-position: 95% bottom;
@@ -633,7 +633,7 @@ h3.section-head {
 }
 
 .full-time-structure {
-  background-image: url("../../images/hour.png");
+  background-image: url("./images/hour.png");
   background-size: 15%;
   background-repeat: no-repeat;
   background-position: 90% 80%;
@@ -672,7 +672,7 @@ h3.section-head {
 }
 
 .part-time-structure {
-  background-image: url("../../images/time.png");
+  background-image: url("./images/time.png");
   background-repeat: no-repeat;
   background-size: 30%;
   background-position: 90% 70%;
@@ -690,8 +690,8 @@ h3.section-head {
   background-color: var(--red-bg);
   color: #fff;
   border-radius: 1.5rem;
-  background-image: url("../../images/bend1.svg"), url("../../images/round.svg"),
-    url("../../images/circles.png"), url("../../images/curve2.svg");
+  background-image: url("./images/bend1.svg"), url("./images/round.svg"),
+    url("./images/circles.png"), url("./images/curve2.svg");
   background-repeat: no-repeat;
   background-size: 8%;
   background-position-x: 100%, 15%, 100%, 0%;
@@ -836,7 +836,7 @@ footer li a {
 
   .middle-content {
     height: 50vh;
-    background-image: url("../../images/wire1.svg");
+    background-image: url("./images/wire1.svg");
     background-repeat: no-repeat;
     background-position-y: 88%;
     background-position-x: 70%;
@@ -867,7 +867,7 @@ footer li a {
   }
 
   .third-section {
-    background-image: url("../../images/section3wire.svg");
+    background-image: url("./images/section3wire.svg");
     background-repeat: no-repeat;
     background-size: 24%;
     background-position-y: 15%;
@@ -914,8 +914,8 @@ footer li a {
 
   .fifth-section {
     flex-direction: column;
-    background-image: url("../../images/wire3.svg"),
-      url("../../images/circles.png");
+    background-image: url("./images/wire3.svg"),
+      url("./images/circles.png");
     background-repeat: no-repeat;
     background-size: 15%, 10%;
     background-position-y: 4%, 96%;
@@ -960,8 +960,8 @@ footer li a {
 
   .structure-container {
     padding: 4rem 0;
-    background-image: url("../../images/section7wire.svg"),
-      url("../../images/Star1.svg");
+    background-image: url("./images/section7wire.svg"),
+      url("./images/Star1.svg");
     background-repeat: no-repeat;
     background-size: 14%;
     background-position-x: 15%, 87%;
@@ -975,7 +975,7 @@ footer li a {
   .program-structure {
     flex-direction: column;
     padding: 0 0 6rem 0;
-    background-image: url("../../images/circle.png");
+    background-image: url("./images/circle.png");
     background-repeat: no-repeat;
     background-size: 40%;
     background-position: right bottom;
@@ -996,9 +996,9 @@ footer li a {
     background-color: var(--red-bg);
     color: #fff;
     border-radius: 1.5rem;
-    background-image: url("../../images/bend1.svg"),
-      url("../../images/round.svg"), url("../../images/circles.png"),
-      url("../../images/curve2.svg");
+    background-image: url("./images/bend1.svg"),
+      url("./images/round.svg"), url("./images/circles.png"),
+      url("./images/curve2.svg");
     background-repeat: no-repeat;
     background-size: 25%;
     background-position-x: 100%, 15%, 100%, 0%;
@@ -1111,7 +1111,7 @@ footer li a {
     padding: 0.8rem 1rem;
   }
   .middle-content {
-    background-image: url("../../images/wire1.svg");
+    background-image: url("./images/wire1.svg");
     background-repeat: no-repeat;
     background-position-y: 100%;
     background-position-x: 70%;
