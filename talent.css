@@ -109,7 +109,7 @@ header {
 
 .first-section {
   padding: 3.9rem var(--header-pd-right) 3rem var(--header-pd-left);
-  background-image: url("../../images/thick2.svg");
+  background-image: url("./images/thick2.svg");
   background-repeat: no-repeat;
   background-position: right 70%;
   background-size: 17%;
@@ -185,7 +185,7 @@ header {
 
 .second-section {
   background-color: var(--pink-bg);
-  background-image: url("../../images/map-background.png");
+  background-image: url("./images/map-background.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: right center;
@@ -246,7 +246,7 @@ header {
 }
 
 .third-section {
-  background-image: url("../../images/thick2.svg");
+  background-image: url("./images/thick2.svg");
   background-repeat: no-repeat;
   background-size: 26%;
   background-position: right 30%;
@@ -293,7 +293,7 @@ header {
   margin-top: 1.8rem;
   background-color: var(--cream-bg);
   text-align: center;
-  background-image: url("../../images/rope.svg");
+  background-image: url("./images/rope.svg");
   background-repeat: no-repeat;
   background-position: left 60%;
 }
