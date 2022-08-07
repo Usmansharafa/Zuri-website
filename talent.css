@@ -1,3 +1,5 @@
+@import url("http://fonts.cdnfonts.com/css/graphik");
+
 *,
 ::before,
 ::after {
@@ -28,6 +30,10 @@
   --btn-pd-left-right: 2.8125rem;
   --btn-pd-top-bottom: 0.9375rem;
   --btn-bd-bottom-right-radius: 0.8125rem;
+}
+
+body {
+  font-family: "Graphik", sans-serif;
 }
 
 p {
@@ -694,7 +700,7 @@ footer {
     height: 7vh;
   }
   .third-section {
-    height: 60vh; 
+    height: 60vh;
   }
 }
 
@@ -738,8 +744,7 @@ footer {
   }
 }
 
-@media screen and (min-width:582px) {
-  
+@media screen and (min-width: 582px) {
   .footer-top {
     flex-direction: row;
   }

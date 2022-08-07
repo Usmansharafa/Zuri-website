@@ -1,3 +1,5 @@
+@import url("http://fonts.cdnfonts.com/css/graphik");
+
 *,
 ::before,
 ::after {
@@ -10,6 +12,10 @@
   --red-text: #eb534b;
   --red-bg: #e7332b;
   --dark-text: #1b1a20;
+}
+
+body {
+  font-family: "Graphik", sans-serif;
 }
 
 header {
